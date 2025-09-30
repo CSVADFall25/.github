@@ -33,7 +33,7 @@ Weekly examples for all projects are available in this organization in the [code
 
 ## Contributing
 
-Please refer to the [class code of conduct](https://sites.google.com/view/mat236/code-of-conduct) for expectations and guidelines on attribution.
+Please refer to the [class code of conduct](https://sites.google.com/view/csvad25/code-of-conduct) for expectations and guidelines on attribution.
 
 ## License
 
