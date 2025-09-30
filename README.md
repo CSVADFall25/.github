@@ -1,4 +1,3 @@
-# .github
 # MAT 236 Computational Systems for Visual Art and Design
 
 This is an organization for the Fall 25' class on computational systems for visual art and design.
